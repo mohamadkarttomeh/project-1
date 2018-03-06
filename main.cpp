@@ -1,4 +1,4 @@
-مسكره#include <stdio.h>
+#include <stdio.h>
 #include<bits/stdc++.h>
 #define ll long long
 #define fr first
@@ -8,17 +8,20 @@
 using namespace std;
 
 
+
+
 int main()
 {
- int t;
- cin>>t;
- while(t--)
- {
+    Car m = new Car();
+    int t;
+    cin>>t;
+    while(t--)
+    {
 
- }
+    }
 }
 int solve(int x)
 {
     cout<<x<<endl;
     cout << "Welcome";
-    }
+}

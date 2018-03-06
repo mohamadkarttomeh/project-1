@@ -8,7 +8,13 @@
 using namespace std;
 int solve(int x)
 {
-    cout<<x<<endl;
+    int y = x*3;
+    for(int i=0;i<x;i++)
+    {
+        cout<<y<<" "<<2<<" "<<y<<endl;
+        /// this is Knew
+
+    }
 }
 int main()
 {

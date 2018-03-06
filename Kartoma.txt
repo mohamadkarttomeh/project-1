@@ -1,2 +1,6 @@
 Hallo
+<<<<<<< HEAD
 You are King 
+=======
+hallow 
+>>>>>>> ef4d2c2d82716f25ac68322932a27d09d588b658

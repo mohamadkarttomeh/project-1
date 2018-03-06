@@ -6,7 +6,10 @@
 #define ii pair < ll , ll >
 #define mp make_pair
 using namespace std;
-
+class wasem {
+string a="Hussen";
+string a="Kartoma";
+};
 
 int main()
 {

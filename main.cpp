@@ -1,4 +1,4 @@
-#include <stdio.h>
+مسكره#include <stdio.h>
 #include<bits/stdc++.h>
 #define ll long long
 #define fr first
@@ -6,10 +6,8 @@
 #define ii pair < ll , ll >
 #define mp make_pair
 using namespace std;
-int solve(int x)
-{
-    cout<<x<<endl;
-}
+
+
 int main()
 {
  int t;
@@ -19,3 +17,8 @@ int main()
 
  }
 }
+int solve(int x)
+{
+    cout<<x<<endl;
+    cout << "Welcome";
+    }

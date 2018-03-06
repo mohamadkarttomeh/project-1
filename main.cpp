@@ -16,6 +16,7 @@ int solve(int x)
 
     }
 }
+
 int main()
 {
  int t;
@@ -25,3 +26,8 @@ int main()
 
  }
 }
+int solve2(int x)
+{
+    cout<<x<<endl;
+    cout << "Welcome";
+    }
